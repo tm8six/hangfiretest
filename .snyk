@@ -1,0 +1,4 @@
+version: v1.15.0
+patches:
+  'SNYK-DOTNET-HANGFIRE-1910224':
+    - Hangfire.Core@1.7.25
